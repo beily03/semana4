@@ -1,0 +1,4 @@
+¿Por qué es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnológicas propias utilizando tecnologías abiertas como Node.js?
+RESPUESTA La creación de herramientas tecnológicas propias con tecnologías abiertas (como Node.js) es fundamental para las comunidades por los siguientes motivos:
+Permanencia: El proyecto no desaparece si una empresa decide cerrar o cambiar sus políticas
+Licencias gratis: Node.js y su ecosistema son gratuitos y no requieren pagar suscripciones costosas.Hardware accesible: Node.js es ligero y eficiente; funciona bien en servidores económicos.
